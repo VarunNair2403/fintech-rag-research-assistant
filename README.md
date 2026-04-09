@@ -10,7 +10,7 @@ Tools like Bloomberg Terminal and AlphaSense charge thousands of dollars per sea
 
 ## Why I Built This
 
-I built this as a portfolio project targeting AI PM roles at fintech companies like Stripe, Plaid, Goldman Sachs, and Bloomberg. The goal was to demonstrate:
+The goal was to demonstrate:
 
 - **RAG architecture** — the most important LLM pattern in enterprise AI today, used by every major AI product team
 - **Fintech domain expertise** — working with real SEC filings, understanding revenue models, risk factors, and competitive dynamics
